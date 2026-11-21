@@ -1,0 +1,18 @@
+# ninja log v7
+19	207	8169920652820911	CMakeFiles/quiet-os-sim.dir/src/core/event_manager.c.obj	5980c18bac79eaca
+25	215	8169920652853814	CMakeFiles/quiet-os-sim.dir/src/ui/ui_renderer.c.obj	3b5beb6cdf99909b
+31	225	8169920652949278	CMakeFiles/quiet-os-sim.dir/src/apps/home/home_app.c.obj	90071778ee016c10
+52	240	8169920653152162	CMakeFiles/quiet-os-sim.dir/src/apps/reader/reader_app.c.obj	122e56709ab89e55
+65	240	8169920653284139	CMakeFiles/quiet-os-sim.dir/src/apps/call/call_app.c.obj	e341c2dc47c87cfe
+4	241	8169920652620659	CMakeFiles/quiet-os-sim.dir/src/main.c.obj	7cd96957f6ee3edc
+37	243	8169920652983390	CMakeFiles/quiet-os-sim.dir/src/apps/clock/clock_app.c.obj	209dfd27616915a1
+13	244	8169920652705176	CMakeFiles/quiet-os-sim.dir/src/core/app_manager.c.obj	50138a1a47cb7f1
+45	245	8169920652983390	CMakeFiles/quiet-os-sim.dir/src/apps/music/music_app.c.obj	5cd8ab85adb82ca7
+93	257	8169920653520819	CMakeFiles/quiet-os-sim.dir/src/platform/pc/pc_time.c.obj	a94a822999d33514
+59	259	8169920653223825	CMakeFiles/quiet-os-sim.dir/src/apps/settings/settings_app.c.obj	c2174a6d1b7bf9ab
+209	353	8169920654713902	CMakeFiles/quiet-os-sim.dir/src/platform/pc/pc_power.c.obj	17756bbe591985c2
+216	359	8169920654807788	CMakeFiles/quiet-os-sim.dir/src/platform/pc/pc_storage.c.obj	10280d22a93377a5
+225	373	8169920654887717	CMakeFiles/quiet-os-sim.dir/src/platform/pc/pc_network.c.obj	662f3d8556b05000
+85	734	8169920653500706	CMakeFiles/quiet-os-sim.dir/src/platform/pc/pc_input.c.obj	d50aeac223e5f58f
+9	736	8169920652705176	CMakeFiles/quiet-os-sim.dir/src/core/system.c.obj	a81f9bfcc71a131d
+72	763	8169920653350878	CMakeFiles/quiet-os-sim.dir/src/platform/pc/pc_display.c.obj	23243ce0a53e7a51
