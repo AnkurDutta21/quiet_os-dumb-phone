@@ -1,0 +1,52 @@
+# QUIET OS — .gitignore
+
+# Build output
+build/
+Build/
+out/
+cmake-build-*/
+*.exe
+*.dll
+*.o
+*.a
+*.lib
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+Makefile
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# CLion
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+# Simulated SD card (user data, not source code)
+sdcard/
+
+# Settings (user preferences, not source code)
+*.ini
+
+# Log files
+*.log
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS (if ever used)
+.DS_Store
+
+# Compiled assets (generated from source)
+assets/fonts/*.bak
+
+# Temporary files
+*.tmp
+*.temp
+~$*
